@@ -1,0 +1,81 @@
+>hsa-mir-134
+total read count                        583
+hsa-miR-134-5p read count               571
+hsa-miR-134-3p read count               11
+remaining read count                    1
+exp                                     fffffff5555555555555555555555ffffffffffffffff33333333333333333333333fffff
+pri_seq                                 cagggugugugacugguugaccagaggggcaugcacuguguucacccugugggccaccuagucaccaacccuc
+pri_struct                              .(((((..((((((((.((.(((.((((((((.....))))...)))).)))..)).))))))))..))))).	#MM
+seq_7716814_x1                          ....gugugugacugguugaccagaggA.............................................	1
+seq_7701732_x1                          .....ugugugacugguugaccagagg..............................................	0
+seq_7628940_x2                          ......gugugacugguugaccagagg..............................................	0
+seq_7642538_x2                          ......Augugacugguugaccagaggg.............................................	1
+seq_7639156_x2                          ......gugugacugguugaccagagggA............................................	1
+seq_7408259_x7                          .......ugugacugguugaccagagA..............................................	1
+seq_7061894_x41                         .......ugugacugguugaccagagg..............................................	0
+seq_6737709_x128                        .......ugugacugguugaccagaggg.............................................	0
+seq_7643012_x2                          .......Cgugacugguugaccagaggg.............................................	1
+seq_7345588_x10                         .......ugugacugguugaccagaggA.............................................	1
+seq_7464168_x5                          .......ugugacugguugaccagaggU.............................................	1
+seq_7874446_x1                          .......Ggugacugguugaccagagggg............................................	1
+seq_7056333_x42                         .......ugugacugguugaccagagggU............................................	1
+seq_6760671_x119                        .......ugugacugguugaccagagggg............................................	0
+seq_7878215_x1                          .......ugugacuggCugaccagagggg............................................	1
+seq_6873284_x82                         .......ugugacugguugaccagagggA............................................	1
+seq_7378688_x8                          .......ugugacugguugaccagaggggU...........................................	1
+seq_7620702_x2                          .......ugugacugguugaccagagggAc...........................................	1
+seq_6928132_x68                         .......ugugacugguugaccagaggggA...........................................	1
+seq_7737768_x1                          .......ugugacugguugaccagagggUc...........................................	1
+seq_7747303_x1                          .......ugugacugguugaccagaggggGa..........................................	1
+seq_7935190_x1                          .......ugugacugguugaccagaggggUa..........................................	1
+seq_7139058_x29                         .......ugugacugguugaccagaggggAa..........................................	1
+seq_7286311_x14                         .......ugugacugguugaccagaggggAau.........................................	1
+seq_7783868_x1                          ........gugacugguugaccagaggggA...........................................	1
+seq_7730357_x1                          ..........gacugguugaccagaggg.............................................	0
+seq_7537612_x3                          ..............................................cugugggccaccuagucacc.......	0
+seq_7406887_x7                          ..............................................cugugggccaccuagucacca......	0
+seq_7686180_x1                          ..............................................cugugggccaccuagucaccaa.....	0
+
+
+
+>hsa-mir-320c-1
+total read count                        52
+hsa-miR-320c read count                 49
+remaining read count                    3
+exp                                     fffffffffffffffffffffffffffffffffffffffffMMMMMMMMMMMMMMMMMMMMfffffffffff
+pri_seq                                 aaaaaugaggccuucucuucccaguucuucccagagucaggaaaagcuggguugagaggguagaaaaaaaau
+pri_struct                              .........((((((((..(((((((.((((........)))).)))))))..))))))))...........	#MM
+seq_7883991_x1                          ........ggccuucucuucccGguuc.............................................	1
+seq_7567456_x2                          ........ggccuucucuucccGguucuucc.........................................	1
+seq_7910663_x1                          ........................................gaaaagcuggguugagagggA...........	1
+seq_7729602_x1                          ........................................gaaaagcuggguugagaggAua..........	1
+seq_7567170_x2                          .........................................aaaagcuggguugagag..............	0
+seq_7809117_x1                          .........................................aaaagcuggguugagagg.............	0
+seq_7857661_x1                          .........................................aaaagcuggguugagagA.............	1
+seq_7164793_x26                         .........................................aaaagcuggguugagaggg............	0
+seq_7473865_x4                          .........................................aaaagcuggguugagagggA...........	1
+seq_7745636_x1                          .........................................aaaagcuggguugagagggu...........	0
+seq_7466738_x5                          .........................................aaaagcuggguugagagggAa..........	1
+seq_7758781_x1                          ..........................................aaagcuggguugagagg.............	0
+seq_7508893_x4                          ..........................................aaagcuggguugagaggg............	0
+seq_7880408_x1                          ..........................................aaagcuggguugagagggA...........	1
+seq_7683917_x1                          ..........................................aaagcuggguugagagggCag.........	1
+
+
+
+>hsa-mir-548aj-2
+total read count                        6
+hsa-miR-548aj-5p read count             3
+hsa-miR-548aj-3p read count             0
+remaining read count                    3
+exp                                     fffffffffffffff55555555555555555555555ffffffffffffffff333333333333333333333fffffffffffffffff
+pri_seq                                 aagguauuagguuggugcaaaaguaauugcaguuuuugcuauuacuuuuaaugguaaaaacugcaauuacuuuuacaccaaccuaauauuua
+pri_struct                              .((((((((((((((((.((((((((((((((((((((((((((....)))))))))))))))))))))))))).)))))))))))))))).	#MM
+seq_7692657_x1                          ......uuCgguuggugcaaaaguaauug...............................................................	1
+seq_7746613_x1                          ..........guuggugcaaaaguaauug...............................................................	0
+seq_7801876_x1                          ...........uuggugcaaaaguaauug...............................................................	0
+seq_7741305_x1                          .................caaaaguaauCgcaguuuuug......................................................	1
+seq_7617092_x2                          .................caaaaguaauCgcaguuuuugc.....................................................	1
+
+
+

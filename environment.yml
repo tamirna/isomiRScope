@@ -1,0 +1,11 @@
+name: isomirscope
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3.*
+  - r-tidyverse=2.0.*
+  - r-foreach=1.5.*
+  - r-doparallel=1.0.*
+  - r-slider=0.3.*
+  - r-r.utils=2.12.*

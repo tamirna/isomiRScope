@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use isomiRScope, please cite both the software and the manuscript."
+title: isomiRScope
+abstract: >-
+  Classification of isomiRs from miRDeep2 mrd files. Assigns every collapsed read
+  to a miRNA arm and reports canonical, 5' variant, 3' variant, combined variant
+  and polymorphic forms.
+type: software
+license: GPL-3.0-only
+repository-code: "TODO: public repository URL"
+url: "https://www.tamirna.com"
+version: "TODO"
+date-released: "TODO"
+doi: "TODO: Zenodo DOI"
+authors:
+  - name: TAmiRNA GmbH
+    city: Vienna
+    country: AT
+    website: "https://www.tamirna.com"
+# TODO: replace with the individual author list agreed for the manuscript.
+preferred-citation:
+  type: article
+  title: "TODO: manuscript title"
+  authors:
+    - name: "TODO"
+  year: 2026
+  doi: "TODO"
